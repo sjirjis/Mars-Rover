@@ -1,0 +1,7 @@
+C:\Users\Steven\source\repos\Mars Rover\bin\Debug\Mars Rover.exe.config
+C:\Users\Steven\source\repos\Mars Rover\bin\Debug\Mars Rover.exe
+C:\Users\Steven\source\repos\Mars Rover\bin\Debug\Mars Rover.pdb
+C:\Users\Steven\source\repos\Mars Rover\obj\Debug\Mars Rover.csprojResolveAssemblyReference.cache
+C:\Users\Steven\source\repos\Mars Rover\obj\Debug\Mars Rover.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\Mars Rover\obj\Debug\Mars Rover.exe
+C:\Users\Steven\source\repos\Mars Rover\obj\Debug\Mars Rover.pdb
